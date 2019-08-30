@@ -1,5 +1,5 @@
 let i=4000
-    for (let index = 0; index < 200; index++) {
+    for (let index = 0; index < 5; index++) {
  setTimeout(()=>{
 document.getElementsByClassName('BY3EC')[0].click()
 },i)
